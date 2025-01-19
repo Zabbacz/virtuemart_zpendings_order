@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+    <name>MOD_VIRTUEMART_ZPENDINGORDERS</name>
+    <creationDate>2024-01-30</creationDate>
+    <author>zabba</author>
+    <authorEmail>zabba@quick.cz</authorEmail>
+    <authorUrl>[AUTHOR_URL]</authorUrl>
+    <copyright>[COPYRIGHT]</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <version>1.0</version>
+    <description>MOD_VIRTUEMART_ZPENDINGORDERS_XML_DESCRIPTION</description>
+    <namespace>Joomla\Module\ZPendingOrders</namespace>
+    <files>
+        <filename module="mod_virtuemart_zpendingorders">mod_virtuemart_zpendingorders.php</filename>
+        <folder>tmpl</folder>
+        <folder>Helper</folder>
+        <folder>language</folder>
+        <filename>mod_virtuemart_zpendingorders.xml</filename>
+    </files>
+</extension>
